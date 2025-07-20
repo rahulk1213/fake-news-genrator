@@ -1,6 +1,7 @@
-📰 Fake Funny News Generator
+●Fake Funny News Generator
+
 A fun and creative Python project that generates hilarious fake news headlines by randomly combining names, places, actions, and twists.
-इस प्रोजेक्ट में Python के basic concepts जैसे random, lists, और functions का use किया गया है।
+
 
 🔧 Features:
 Generates random and funny news headlines
